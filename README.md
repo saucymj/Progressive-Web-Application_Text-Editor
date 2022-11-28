@@ -1,1 +1,1 @@
-# Progressive-Web-Application_Text-Editor
+# Progressive-Web-Application(PWA): Text Editor
