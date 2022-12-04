@@ -17,4 +17,4 @@ From the backend of my application I first had to install all dependencies using
 
 Repository: https://github.com/saucymj/Progressive-Web-Application_Text-Editor
 
-Live Application: 
+Live Application: https://jate-text-editor1.herokuapp.com/
